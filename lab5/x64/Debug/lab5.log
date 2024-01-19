@@ -1,0 +1,7 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(503,5): warning MSB8004: каталог Output заканчивается не косой чертой.  Этот экземпляр сборки добавит косую черту, поскольку она необходима для правильного определения каталога Output.
+  lab5.cpp
+D:\Visual Studio\lab5\lab5.cpp(25,63): warning C4311: приведение типов: усечение указателя из "HANDLE" в "int"
+D:\Visual Studio\lab5\lab5.cpp(25,63): warning C4302: приведение типов: усечение из "HANDLE" к "int"
+D:\Visual Studio\lab5\lab5.cpp(25,79): warning C4311: приведение типов: усечение указателя из "HANDLE" в "int"
+D:\Visual Studio\lab5\lab5.cpp(25,79): warning C4302: приведение типов: усечение из "HANDLE" к "int"
+  lab5.vcxproj -> D:\Visual Studio\lab5\x64\Debug\Debug\lab5.exe
